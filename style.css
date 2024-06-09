@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(172, 237, 162, 0.504);
+    overflow-x: hidden;
+    padding-left: 90px;
+    padding-right: 100px;
+
+}
+h1{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+   
+}
+marquee{
+    color: black;
+   
+}
+button[type="submit"]
+{
+    width: 50%;
+    margin-left: 300px;
+    margin-top: 100px;
+   
+}
